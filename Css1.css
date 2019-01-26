@@ -1,0 +1,19 @@
+  .title {color :rgb(117, 111, 110);
+
+   font-size: 5em;
+   display : inline-block;
+   padding:10% ;
+   background-image :url(../Checkpoint2/Background.jpg);
+  }
+#def {font-size: 5em ;
+      color : rgb(97, 11, 4);}
+  .types {width :100% ; margin :10px ;}
+  .pop { background-color : rgb(243, 213, 209);display: inline-block;height:350px;}
+  .rock {background-color:rgb(168, 209, 224);display: inline-block;height:350px ;}
+  .jazz {background-color :rgb(197, 243, 204);display:inline-block ;height:250px; }
+  .country {background-color : rgb(245, 250, 153);display:inline-block ;height:250px ;}
+  .hiphop{background-color : rgb(236, 200, 166);display:inline-block ;height:250px ;}
+  .blues { background-color : rgb(255, 201, 102) ; display:inline-block;height:250px ;}
+  .rock,.pop ,.jazz ,.country ,.hiphop ,.blues{ padding: 20px ;width:40% ;margin-right :40px ;margin-left:40px;margin-bottom: 20px;font-family : Georgia;}
+  .pop:hover,.country:hover,.jazz:hover,.hiphop:hover,.rock:hover,.blues:hover{border : dotted 2px black;}
+  .box1 {display:block;}
